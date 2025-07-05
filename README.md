@@ -75,4 +75,4 @@ This project is part of my **Data Science Internship at CodeAlpha**, where I dev
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/CodeAlpha_CarPricePrediction.git
+   https://github.com/ravulapallisairam/CodeAlpha_CarPricePrediction.git
